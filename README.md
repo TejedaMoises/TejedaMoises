@@ -7,9 +7,9 @@
 
 ---
 🌟 **Tecnologías:**  
-- HTML | CSS | JavaScript  
-- Power BI  
-- Ethical Hacking (Básico)
+- HTML
+- CSS
+- JavaScript  
 
 📩 Contáctame en [moisesestudios14@gmail.com]
 
